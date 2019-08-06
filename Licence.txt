@@ -1,0 +1,8 @@
+Angular Project Generator V2.0
+
+ngApp is a Freeware CLI app created by Md. Sharif Ullah
+This app generate Angualr project Just one click.
+Along with this file Bootstrap, Jquery, popper.js anf Font-Awesome v4.7.0 will also be installed.
+User can use this file as long as for Personal or Educational Perpose.
+
+For any Inquery Please contact dev.sharifullah@gmail.com
