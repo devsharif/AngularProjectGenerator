@@ -1,4 +1,4 @@
-<h1>Angular Project Generator V2.0</h1>
+<h1>Angular Project Generator v2.0</h1>
 
 <h3>ngApp is a Freeware CLI based app, Created by - <strong>Sharif Ullah</strong></h3>
 
@@ -14,7 +14,7 @@
 
 Along with this file <strong>Bootstrap</strong>, <strong>Jquery</strong>, <strong>popper.js</strong> and <strong>Font-Awesome v4.7.0</strong> will also be installed.
 
-<strong>Download from: </strong><a href="https://github.com/devsharif/AngularProjectGenerator/raw/master/ngApp.exe">Angular Project Generator V2.0</a>
+<strong>Download from: </strong><a href="https://github.com/devsharif/AngularProjectGenerator/raw/master/ngApp.exe">Angular Project Generator v2.0</a>
 
 <strong>Note: </strong>User can use this file as long as for Personal or Educational Perpose.
 
